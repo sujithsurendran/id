@@ -8,8 +8,8 @@ define("USER_TYPE_DATA_ENTRY_OPERATOR", "5");
 define("USER_TYPE_STUDENT_REPRESENTATIVE", "6");
 define("DB_SERVER_NAME", "localhost");
 define("DB_NAME", "institution");
-define("DB_USER", "root");
-define("DB_PASSWORD", "student@mysql");
+define("DB_USER", "dbUser");
+define("DB_PASSWORD", "dbPassword");
 $_SESSION["STUDENT_ID"] = NULL;
 ?>
 
